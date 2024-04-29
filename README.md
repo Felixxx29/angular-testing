@@ -1,4 +1,12 @@
-## Finished Testing Course from Angular Univercity
+## Testing Course from Angular Univercity
+
+Completed testing course, including sections:
+ - unit testing:
+   - component testing
+   - service testing
+   - asynchronous testing
+- e2e testing
+- ci for application
 
 ## Angular Testing Course
 
